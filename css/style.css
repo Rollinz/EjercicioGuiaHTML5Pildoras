@@ -5,6 +5,7 @@ body{
 h1{
     font: normal 2.4em Verdana, Geneva, sans-serif;
     background: -moz-linear-gradient(top, gray, whitesmoke);
+    background: -ms-linear-gradient(top, gray, whitesmoke);
     width: 20%;
     border-radius: 10px;
     margin: 15px auto;
@@ -62,6 +63,15 @@ footer p{
     color: gray;
 }
 
+#video{
+    width: 720px;
+    margin: 20px auto;
+    background:silver;
+    padding: 5px;
+    border: 2px solid steelblue;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
 /* .figura{
     color: aqua;
 } */
