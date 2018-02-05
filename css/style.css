@@ -62,16 +62,6 @@ footer p{
     margin: 10px 8px;
     color: gray;
 }
-
-#video{
-    width: 720px;
-    margin: 20px auto;
-    background:silver;
-    padding: 5px;
-    border: 2px solid steelblue;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-}
 /* .figura{
     color: aqua;
 } */
